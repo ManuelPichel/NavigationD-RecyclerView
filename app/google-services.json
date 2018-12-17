@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "196602998314",
+    "firebase_url": "https://pokedex-a040d.firebaseio.com",
+    "project_id": "pokedex-a040d",
+    "storage_bucket": "pokedex-a040d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196602998314:android:9633dcfc603fd520",
+        "android_client_info": {
+          "package_name": "com.example.dam.pokedex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196602998314-bajol1ma0pp85n13bne7l4lb3kgemcej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmoz3GO7d8Yg-9f1iF0-TF_ImLb_ItkRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196602998314:android:b40f08a36be77d09",
+        "android_client_info": {
+          "package_name": "com.example.usuario.navirec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196602998314-bajol1ma0pp85n13bne7l4lb3kgemcej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmoz3GO7d8Yg-9f1iF0-TF_ImLb_ItkRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
